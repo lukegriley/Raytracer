@@ -1,4 +1,4 @@
-| Expected Output |
+| Sample Outputs |
 | :--------------: |
 | ![Point Light 1](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/point_light/point_light_1.png) |
 | ![Point Light 2](https://raw.githubusercontent.com/BrownCSCI1230/scenefiles/main/illuminate/required_outputs/point_light/point_light_2.png) |
